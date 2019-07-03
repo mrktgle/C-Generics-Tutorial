@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2017\Projects\Testing\Testing\bin\Debug\Testing.exe.config
+D:\Documents\Visual Studio 2017\Projects\Testing\Testing\bin\Debug\Testing.exe
+D:\Documents\Visual Studio 2017\Projects\Testing\Testing\bin\Debug\Testing.pdb
+D:\Documents\Visual Studio 2017\Projects\Testing\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Testing\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Testing\Testing\obj\Debug\Testing.exe
+D:\Documents\Visual Studio 2017\Projects\Testing\Testing\obj\Debug\Testing.pdb
